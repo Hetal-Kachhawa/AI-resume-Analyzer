@@ -2,6 +2,7 @@
 
 AI Resume Analyzer is a web application that analyzes PDF resumes using a Large Language Model (Mistral AI). The application provides ATS-oriented feedback, identifies strengths and weaknesses, suggests missing technical skills, recommends projects to improve the resume, and gives actionable improvement suggestions.
 
+# live demo link - https://ai-resume-analyzer-sjouhr8wzpqvbmk42eawb9.streamlit.app/
 ---
 
 ## Features
